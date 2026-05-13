@@ -1,13 +1,12 @@
-package com.example.vitty_app;
+package com.aub.studentlife;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class VittyAppApplicationTests {
+class VithyAppTests {
 
-	@Test
-	void contextLoads() {
-	}
-
+    @Test
+    void contextLoads() {
+    }
 }
